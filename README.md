@@ -4,7 +4,7 @@
 This project simulates a simplified cryptographic operation using:
 - 128-bit key generation
 - Bitwise XOR operations
-- Splitting and recombining binary data
+- Splitting and recombining binary data 
 
 ## ⚙️ Features
 - Generates random 128-bit key and message
